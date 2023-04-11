@@ -1,0 +1,15 @@
+.rightpanel-container{
+    margin-left: 80px;
+
+}
+.rightpanel-header{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 5px;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+.rightpanel-content{
+
+}

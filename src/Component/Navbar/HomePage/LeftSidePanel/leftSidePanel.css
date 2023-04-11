@@ -1,0 +1,19 @@
+.avatar-div{
+
+}
+.avatar-img{
+    max-width: 35px;
+    max-height: 35px;
+
+}
+.avatar-name{
+    font-weight:500 ;
+    margin: 10px;
+    font-size: 14px;
+
+}
+.imagelayout-main{
+    display: flex;
+    margin: 15px;
+
+}
